@@ -3,6 +3,8 @@
 The R scripts in this repository analyze how travelers in February 2015 expressed their feelings towards US major airlines. The snetiment reviews are from Twitter.com.
 The data come from https://www.kaggle.com/crowdflower/twitter-airline-sentiment.
 
+A sentiment analysis about the problems of each major U.S. airline. Twitter data was scraped from February of 2015 and contributors were asked to first classify positive, negative, and neutral tweets, followed by categorizing negative reasons (such as "late flight" or "rude service").
+
 network.R:
 Builds the social network clusters under different filtrations.
 
